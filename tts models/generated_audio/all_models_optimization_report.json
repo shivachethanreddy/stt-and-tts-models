@@ -1,0 +1,112 @@
+{
+  "english": {
+    "name": "English",
+    "audio_duration_sec": 6.93,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 968.45,
+    "min_latency_ms": 933.02,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1398,
+    "real_time_speedup": 7.15
+  },
+  "hindi": {
+    "name": "Hindi (हिंदी)",
+    "audio_duration_sec": 10.58,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1489.7,
+    "min_latency_ms": 1400.87,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1409,
+    "real_time_speedup": 7.1
+  },
+  "Bengali": {
+    "name": "Bengali (বাংলা)",
+    "audio_duration_sec": 10.32,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1399.82,
+    "min_latency_ms": 1301.06,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1356,
+    "real_time_speedup": 7.37
+  },
+  "telugu": {
+    "name": "Telugu (తెలుగు)",
+    "audio_duration_sec": 5.79,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 829.73,
+    "min_latency_ms": 796.15,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1433,
+    "real_time_speedup": 6.98
+  },
+  "tamil": {
+    "name": "Tamil (தமிழ்)",
+    "audio_duration_sec": 10.24,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1388.35,
+    "min_latency_ms": 1315.59,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1356,
+    "real_time_speedup": 7.38
+  },
+  "kannada": {
+    "name": "Kannada (ಕನ್ನಡ)",
+    "audio_duration_sec": 12.16,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1712.21,
+    "min_latency_ms": 1632.51,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1408,
+    "real_time_speedup": 7.1
+  },
+  "Malayalam": {
+    "name": "Malayalam (മലയാളം)",
+    "audio_duration_sec": 9.78,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1257.29,
+    "min_latency_ms": 1206.61,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1286,
+    "real_time_speedup": 7.78
+  },
+  "Marathi": {
+    "name": "Marathi (मराठी)",
+    "audio_duration_sec": 8.72,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1354.08,
+    "min_latency_ms": 1230.85,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1553,
+    "real_time_speedup": 6.44
+  },
+  "gujarathi": {
+    "name": "Gujarati (ગુજરાતી)",
+    "audio_duration_sec": 8.67,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1215.97,
+    "min_latency_ms": 1203.82,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1402,
+    "real_time_speedup": 7.13
+  },
+  "Odia": {
+    "name": "Odia (ଓଡ଼ିଆ)",
+    "audio_duration_sec": 9.39,
+    "baseline_ms": "N/A (Pruned)",
+    "optimized_ms": 1344.06,
+    "min_latency_ms": 1265.99,
+    "latency_reduction_ms": "N/A",
+    "speedup_percent": "N/A",
+    "optimized_rtf": 0.1431,
+    "real_time_speedup": 6.99
+  }
+}

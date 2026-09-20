@@ -1,0 +1,252 @@
+{
+  "english": {
+    "native_name": "English",
+    "test_text": "Hello! Welcome to our multilingual speech synthesis system. We are testing audio quality and natural prosody.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/english_sample.wav",
+    "file_size_bytes": 228908,
+    "inference_time_sec": 2.405,
+    "real_time_factor": 0.3362,
+    "chars_processed": 106,
+    "acoustic_quality": {
+      "duration_sec": 7.152,
+      "peak_amplitude": 0.8922,
+      "peak_db": -0.99,
+      "rms_db": -17.37,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.224,
+      "snr_db": 25.1
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 141.9,
+      "std_f0_hz": 39.9,
+      "min_f0_hz": 60.4,
+      "max_f0_hz": 355.6,
+      "voiced_frames": 448
+    }
+  },
+  "hindi": {
+    "native_name": "हिन्दी (Hindi)",
+    "test_text": "नमस्ते! हमारी बहुभाषी भाषण संश्लेषण प्रणाली में आपका स्वागत है। हम ऑडियो गुणवत्ता और स्वाभाविकता का परीक्षण कर रहे हैं।",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/hindi_sample.wav",
+    "file_size_bytes": 342060,
+    "inference_time_sec": 2.975,
+    "real_time_factor": 0.2783,
+    "chars_processed": 116,
+    "acoustic_quality": {
+      "duration_sec": 10.688,
+      "peak_amplitude": 0.9238,
+      "peak_db": -0.69,
+      "rms_db": -16.41,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.419,
+      "snr_db": 30.7
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 151.6,
+      "std_f0_hz": 40.7,
+      "min_f0_hz": 75.8,
+      "max_f0_hz": 355.6,
+      "voiced_frames": 573
+    }
+  },
+  "Bengali": {
+    "native_name": "বাংলা (Bengali)",
+    "test_text": "নমস্কার! আমাদের বহুভাষিক কণ্ঠ সংশ্লেষণ সিস্টেমে আপনাকে স্বাগতম। আমরা অডিও গুণমান এবং স্বাভাবিকতা পরীক্ষা করছি।",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/Bengali_sample.wav",
+    "file_size_bytes": 340524,
+    "inference_time_sec": 4.716,
+    "real_time_factor": 0.4432,
+    "chars_processed": 107,
+    "acoustic_quality": {
+      "duration_sec": 10.64,
+      "peak_amplitude": 0.8831,
+      "peak_db": -1.08,
+      "rms_db": -18.46,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.459,
+      "snr_db": 28.39
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 143.0,
+      "std_f0_hz": 37.3,
+      "min_f0_hz": 80.8,
+      "max_f0_hz": 347.8,
+      "voiced_frames": 554
+    }
+  },
+  "telugu": {
+    "native_name": "తెలుగు (Telugu)",
+    "test_text": "నమస్కారం! మా బహుభాషా ప్రసంగ సంశ్లేషణ వ్యవస్థకు స్వాగతం. మేము ఆడియో నాణ్యత మరియు సహజత్వాన్ని పరీక్షిస్తున్నాము.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/telugu_sample.wav",
+    "file_size_bytes": 320556,
+    "inference_time_sec": 4.542,
+    "real_time_factor": 0.4535,
+    "chars_processed": 107,
+    "acoustic_quality": {
+      "duration_sec": 10.016,
+      "peak_amplitude": 0.8748,
+      "peak_db": -1.16,
+      "rms_db": -16.39,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.37,
+      "snr_db": 28.19
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 152.8,
+      "std_f0_hz": 40.4,
+      "min_f0_hz": 62.5,
+      "max_f0_hz": 355.6,
+      "voiced_frames": 606
+    }
+  },
+  "tamil": {
+    "native_name": "தமிழ் (Tamil)",
+    "test_text": "வணக்கம்! எங்கள் பலமொழி பேச்சு அமைப்புக்கு உங்களை வரவேற்கிறோம். நாங்கள் ஆடியோ தரத்தையும் இயற்கையான உச்சரிப்பையும் சோதிக்கிறோம்.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/tamil_sample.wav",
+    "file_size_bytes": 310828,
+    "inference_time_sec": 4.625,
+    "real_time_factor": 0.4762,
+    "chars_processed": 123,
+    "acoustic_quality": {
+      "duration_sec": 9.712,
+      "peak_amplitude": 0.7295,
+      "peak_db": -2.74,
+      "rms_db": -18.42,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.353,
+      "snr_db": 28.91
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 168.3,
+      "std_f0_hz": 40.6,
+      "min_f0_hz": 60.8,
+      "max_f0_hz": 347.8,
+      "voiced_frames": 625
+    }
+  },
+  "kannada": {
+    "native_name": "ಕನ್ನಡ (Kannada)",
+    "test_text": "ನಮಸ್ಕಾರ! ನಮ್ಮ ಬಹುಭಾಷಾ ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆ ವ್ಯವಸ್ಥೆಗೆ ಸುಸ್ವಾಗತ. ನಾವು ಆಡಿಯೊ ಗುಣಮಟ್ಟ ಮತ್ತು ನೈಸರ್ಗಿಕತೆಯನ್ನು ಪರೀಕ್ಷಿಸುತ್ತಿದ್ದೇವೆ.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/kannada_sample.wav",
+    "file_size_bytes": 388652,
+    "inference_time_sec": 2.788,
+    "real_time_factor": 0.2296,
+    "chars_processed": 117,
+    "acoustic_quality": {
+      "duration_sec": 12.144,
+      "peak_amplitude": 0.8439,
+      "peak_db": -1.47,
+      "rms_db": -16.24,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.28,
+      "snr_db": 27.69
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 161.9,
+      "std_f0_hz": 29.7,
+      "min_f0_hz": 71.1,
+      "max_f0_hz": 313.7,
+      "voiced_frames": 823
+    }
+  },
+  "Malayalam": {
+    "native_name": "മലയാളം (Malayalam)",
+    "test_text": "നമസ്കാരം! ഞങ്ങളുടെ ബഹുഭാഷാ സംഭാഷണ സിസ്റ്റത്തിലേക്ക് സ്വാഗതം. ഞങ്ങൾ ഓഡിയോ ഗുണനിലവാരവും സ്വാഭാവികതയും പരിശോധിക്കുകയാണ്.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/Malayalam_sample.wav",
+    "file_size_bytes": 279084,
+    "inference_time_sec": 4.416,
+    "real_time_factor": 0.5064,
+    "chars_processed": 114,
+    "acoustic_quality": {
+      "duration_sec": 8.72,
+      "peak_amplitude": 0.7459,
+      "peak_db": -2.55,
+      "rms_db": -14.55,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.264,
+      "snr_db": 33.17
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 127.9,
+      "std_f0_hz": 34.2,
+      "min_f0_hz": 71.1,
+      "max_f0_hz": 355.6,
+      "voiced_frames": 558
+    }
+  },
+  "Marathi": {
+    "native_name": "मराठी (Marathi)",
+    "test_text": "नमस्कार! आमच्या बहुभाषिक आवाज प्रणालीमध्ये आपले स्वागत आहे. आम्ही ऑडिओ गुणवत्ता आणि नैसर्गिकतेची चाचणी करत आहोत.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/Marathi_sample.wav",
+    "file_size_bytes": 279084,
+    "inference_time_sec": 4.434,
+    "real_time_factor": 0.5085,
+    "chars_processed": 108,
+    "acoustic_quality": {
+      "duration_sec": 8.72,
+      "peak_amplitude": 0.8902,
+      "peak_db": -1.01,
+      "rms_db": -14.21,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.336,
+      "snr_db": 32.97
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 261.3,
+      "std_f0_hz": 52.7,
+      "min_f0_hz": 65.8,
+      "max_f0_hz": 333.3,
+      "voiced_frames": 605
+    }
+  },
+  "gujarathi": {
+    "native_name": "ગુજરાતી (Gujarati)",
+    "test_text": "નમસ્તે! અમારી બહુભાષી ભાષણ સંશ્લેષણ પ્રણાલીમાં આપનું સ્વાગત છે. અમે ઑડિયો ગુણવત્તા અને કુદરતી વાણીની ચકાસણી કરી રહ્યા છીએ.",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/gujarathi_sample.wav",
+    "file_size_bytes": 273964,
+    "inference_time_sec": 4.29,
+    "real_time_factor": 0.5011,
+    "chars_processed": 118,
+    "acoustic_quality": {
+      "duration_sec": 8.56,
+      "peak_amplitude": 0.244,
+      "peak_db": -12.25,
+      "rms_db": -26.89,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.254,
+      "snr_db": 28.54
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 123.3,
+      "std_f0_hz": 20.4,
+      "min_f0_hz": 79.6,
+      "max_f0_hz": 290.9,
+      "voiced_frames": 524
+    }
+  },
+  "Odia": {
+    "native_name": "ଓଡ଼ିଆ (Odia)",
+    "test_text": "ନମସ୍କାର! ଆମର ବହୁଭାଷୀ ଭାଷଣ ସଂଶ୍ଳେଷଣ ପ୍ରଣାଳୀକୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। ଆମେ ଅଡିଓ ଗୁଣବତ୍ତା ଏବଂ ପ୍ରାକୃତିକତା ପରୀକ୍ଷା କରୁଛୁ।",
+    "audio_file": "C:/Users/shiva/Downloads/tts models/generated_audio/Odia_sample.wav",
+    "file_size_bytes": 298540,
+    "inference_time_sec": 4.377,
+    "real_time_factor": 0.4692,
+    "chars_processed": 106,
+    "acoustic_quality": {
+      "duration_sec": 9.328,
+      "peak_amplitude": 0.693,
+      "peak_db": -3.19,
+      "rms_db": -17.39,
+      "clipped_ratio": 0.0,
+      "silence_ratio": 0.37,
+      "snr_db": 29.56
+    },
+    "prosody_metrics": {
+      "mean_f0_hz": 157.4,
+      "std_f0_hz": 28.4,
+      "min_f0_hz": 60.4,
+      "max_f0_hz": 242.4,
+      "voiced_frames": 609
+    }
+  }
+}
